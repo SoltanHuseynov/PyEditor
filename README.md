@@ -6,4 +6,4 @@ this editor is under construction
 ## PyEditor V-2.0
 
 new actions in editor
-- 
+1)
